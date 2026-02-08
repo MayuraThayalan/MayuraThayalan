@@ -4,8 +4,5 @@ Computer Science Undergraduate
 
 
 
-## 📊 GitHub Stats
-![Metrics](https://metrics.lecoq.io/MayuraThayalan?theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=MayuraThayalan&theme=blueberry)
 
-## 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=MayuraThayalan&theme=tokyonight)
