@@ -4,5 +4,8 @@ Computer Science Undergraduate
 
 
 
-![Mayura's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MayuraThayalan&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+![Metrics](https://metrics.lecoq.io/MayuraThayalan?theme=tokyonight)
 
+## 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=MayuraThayalan&theme=tokyonight)
